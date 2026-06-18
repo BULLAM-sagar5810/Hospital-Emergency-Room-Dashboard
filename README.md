@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Analysis Dashboard – Power BI
+# 🏥 Hospital Emergency Room Analysis Dashboard – MS Excel
 <img width="1309" height="467" alt="స్క్రీన్‌షాట్ 2026-06-18 095540" src="https://github.com/user-attachments/assets/eef87e92-cdd5-406e-81da-955aac3214c3" />
 
 End-to-End Healthcare Analytics Dashboard | Power BI | Power Query | DAX | Data Modeling
